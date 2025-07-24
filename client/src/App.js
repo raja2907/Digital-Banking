@@ -1,4 +1,5 @@
-import Login from "./pages/Login";
+import Login from "./components/LoginForm";
+import './index.css';
 
 export default function App() {
   return (
